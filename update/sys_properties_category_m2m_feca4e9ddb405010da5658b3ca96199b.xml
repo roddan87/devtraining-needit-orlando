@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NeedIt Properties">5b29c69ddb405010da5658b3ca96190f</category>
+        <order>100</order>
+        <property display_value="x_58872_needit.adcancedNoticeDays" name="x_58872_needit.adcancedNoticeDays">548a469ddb405010da5658b3ca9619e5</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 14:28:25</sys_created_on>
+        <sys_id>feca4e9ddb405010da5658b3ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.adcancedNoticeDays.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_feca4e9ddb405010da5658b3ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 14:28:25</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
